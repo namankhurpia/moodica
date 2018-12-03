@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "697047068082",
+    "firebase_url": "https://moodica-cbfd0.firebaseio.com",
+    "project_id": "moodica-cbfd0",
+    "storage_bucket": "moodica-cbfd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697047068082:android:e2f98db5fa362dbb",
+        "android_client_info": {
+          "package_name": "patel.abhay.moodica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697047068082-3p6v6674a0a2snuqlc2ces1g4ne2f0b7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "patel.abhay.moodica",
+            "certificate_hash": "cd37735b021310996ae3cff8b86833bc9b2f5699"
+          }
+        },
+        {
+          "client_id": "697047068082-sd5ap996uqav3rbp5odi4sbc27qlsqp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA83f44Lu4BWvxzcy5nFQ3_R1e8XcVmod4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697047068082-sd5ap996uqav3rbp5odi4sbc27qlsqp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
